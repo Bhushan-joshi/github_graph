@@ -1,0 +1,25 @@
+{
+  "name": "githubhack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhushan-joshi/githubHack.git"
+  },
+  "author": "Bhushan Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhushan-joshi/githubHack/issues"
+  },
+  "homepage": "https://github.com/Bhushan-joshi/githubHack#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^2.2.0",
+    "simple-git": "^2.35.2"
+  }
+}
